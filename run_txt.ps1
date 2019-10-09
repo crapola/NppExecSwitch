@@ -1,0 +1,1 @@
+write-host $args "is a text file!"

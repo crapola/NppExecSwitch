@@ -1,0 +1,1 @@
+D:\Users\Utilisateur\.cargo\bin\rustc.exe $args[0]
