@@ -4,5 +4,4 @@ if ($args[0] -eq $PSCommandPath)
 	write-host "OK"
 	exit
 }
-powershell -file "$args"
-
+powershell -file $args[0]
