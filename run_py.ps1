@@ -1,1 +1,1 @@
-python "$args"
+py $args
